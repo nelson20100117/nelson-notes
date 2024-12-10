@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "5c0f110311266518",
+    "type": "split",
+    "children": [
+      {
+        "id": "6796ddc2cb3ae9e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f721b3414dbc1f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/南京照片/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7290ed72f6c2ee74",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c5a90a8c510aa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "019e26ba947071ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "3f541cd909cc0811",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Chrome",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "a3ed918d4f3d0219",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "078e9d4c6cfa4f3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b711c0832c7d4b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09adbf141c6efaf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/南京照片/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "index 的反向連結"
+            }
+          },
+          {
+            "id": "fd5ec188f5bb7326",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/南京照片/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的對外連結"
+            }
+          },
+          {
+            "id": "8b83b2413b49ca74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "538f9392b9dfc799",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/南京照片/index.md"
+              },
+              "icon": "lucide-list",
+              "title": "index 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "f721b3414dbc1f59",
+  "lastOpenFiles": [
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_1.jpg",
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_4.jpg",
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_3.jpg",
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_2.jpg",
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_7.jpg",
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_6.jpg",
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_5.jpg",
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_10.jpg",
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_9.jpg",
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_8.jpg",
+    "content/posts/南京照片/LINE_ALBUM_2024南京_240706_12.jpg"
+  ]
+}

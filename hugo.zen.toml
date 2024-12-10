@@ -1,7 +1,7 @@
-baseURL = "https://g1en.site"
-defaultContentLanguage = "zh"
-languageCode = "zh-Hans"
-title = "g1eny0ung 的博客"
+baseURL = "https://notes.nelsonwp.com"
+defaultContentLanguage = "en"
+languageCode = "en-us"
+title = "Nelson Notes"
 theme = "dream"
 
 enableGitInfo = true
@@ -11,9 +11,9 @@ hasCJKLanguage = true
 
 # [services]
 # [services.disqus]
-# shortname = "g1eny0ung"
+# shortname = ""
 # [services.googleAnalytics]
-# ID = "G-K6V0YY3HWS"
+# ID = ""
 
 [markup]
 [markup.goldmark.parser]
@@ -41,17 +41,17 @@ darkTheme = "forest"
 
 images = ["me/background.jpg"]
 
-author = "g1eny0ung"
-description = "The life record of g1eny0ung is presented here."
+author = "Nelson"
+description = "The life record of Nelson is presented here."
 avatar = "me/yy.jpg"
-headerTitle = "g1eny0ung 的博客"
-motto = "与其感慨路难行，不如马上出发。"
+headerTitle = "Nelson Notes"
+motto = "如果你的面前有陰影，那是因為你的背後有陽光。"
 
 # footerBottomText = ""
 
 rss = true
 
-# utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+# utterancesRepo = "nelson20100117/nelson20100117.github.io"
 
 # valine = true
 # LEANCLOUD_APP_ID = ""
@@ -60,9 +60,9 @@ rss = true
 # waline = true
 # walineServer = ""
 
-email = "g1enyy0ung@gmail.com"
+email = "nelsonxing117@gmail.com"
 
-siteStartYear = 2016
+siteStartYear = 2015
 
 favicon = "favicon.ico"
 
