@@ -1,9 +1,9 @@
 ---
 title: 弦樂團畢業音樂會
-date: 2023-01-02T23:54:31+08:00
+date: 2022-06-26T23:54:31+08:00
 author: nelson
 avatar: /me/yy.jpg
-cover: 20220626-141651-554.JPG
+cover: 20220626-141651-554.jpg
 categories:
   - 弦樂團
 tags:
