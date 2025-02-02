@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/605畢業照片/index.md",
+                "file": "content/posts/國中畢旅照片1/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -164,25 +165,29 @@
   },
   "active": "065ecc71776946a6",
   "lastOpenFiles": [
-    "content/posts/三年級照片/index.md",
+    "content/posts/國中畢旅照片1/1000012331.jpg",
+    "content/posts/國中畢旅照片1/1000012330.jpg",
+    "content/posts/國中畢旅照片1/1000012329.jpg",
+    "content/posts/國中畢旅照片1/1000012328.jpg",
+    "content/posts/國中畢旅照片1/1000012327.jpg",
+    "content/posts/國中畢旅照片1/1000012326.jpg",
+    "content/posts/國中畢旅照片1/1000012325.jpg",
+    "content/posts/國中畢旅照片1/20240926_182824.jpg",
+    "content/posts/國中畢旅照片1/20240926_182803.jpg",
+    "content/posts/國中畢旅照片1/20240926_182757.jpg",
+    "content/posts/國中畢旅照片1/20240926_170653.jpg",
+    "content/posts/南京照片2/index.md",
+    "content/posts/國中畢旅照片1/index.md",
+    "content/posts/馬祖照片/index.md",
+    "content/posts/_index.md",
     "content/posts/605畢業照片/index.md",
+    "content/posts/國中畢旅照片1",
+    "content/posts/三年級照片/index.md",
     "content/posts/南京照片3/index.md",
     "content/posts/南京照片3/741774993.807245.mp4",
-    "content/posts/南京照片3/S__110387233.jpg",
-    "content/posts/南京照片3/S__110387231.jpg",
-    "content/posts/南京照片3/S__110387230.jpg",
-    "content/posts/南京照片3/S__110387229.jpg",
-    "content/posts/南京照片3/S__110387227.jpg",
-    "content/posts/南京照片3/S__109977609.jpg",
-    "content/posts/南京照片3/S__109977606.jpg",
-    "content/posts/南京照片3/S__109977604.jpg",
-    "content/posts/南京照片3/S__109797386.jpg",
-    "content/posts/南京照片3/S__109797385.jpg",
     "content/posts/國小畢業照片/index.md",
     "content/posts/弦樂團畢業音樂會/index.md",
     "content/posts/馬祖照片2/index.md",
-    "content/posts/馬祖照片/index.md",
-    "content/posts/南京照片2/index.md",
     "content/posts/南京照片/index.md"
   ]
 }
