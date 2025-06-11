@@ -3,7 +3,7 @@ title: 日本照片
 date: 2025-05-21T23:54:31+08:00
 author: nelson
 avatar: /me/yy.jpg
-cover: LINE_ALBUM_Day%201%20桃園機場出航_250604_6.jpg
+cover: LINE_ALBUM_Day 1 桃園機場出航_250604_6.jpg
 categories:
   - 數資班
 tags:
