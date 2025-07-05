@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "848c09fab1856cc3",
+        "id": "da3e6cd6b6c2addc",
         "type": "tabs",
         "children": [
           {
-            "id": "6050eabad76dd7bd",
+            "id": "8944fd5337da7abe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/日本照片7/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "index"
             }
           }
         ]
@@ -159,19 +163,28 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6050eabad76dd7bd",
+  "active": "8944fd5337da7abe",
   "lastOpenFiles": [
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_6.jpg",
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_5.jpg",
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_4.jpg",
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_3.jpg",
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_2.jpg",
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_1.jpg",
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_71.jpg",
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_70.jpg",
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_69.jpg",
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_68.jpg",
+    "content/posts/日本照片7/LINE_ALBUM_日本之旅2_250604_67.jpg",
+    "content/posts/日本照片7/index.md",
+    "content/posts/日本照片7",
+    "content/posts/日本照片6/index.md",
+    "content/posts/日本照片6",
+    "content/posts/日本照片5/index.md",
+    "content/posts/日本照片4/index.md",
+    "content/posts/日本照片5",
+    "content/posts/日本照片4",
     "content/posts/日本照片3/index.md",
-    "content/posts/日本照片3/LINE_ALBUM_Day 3 川越老街_250604_10.jpg",
-    "content/posts/日本照片3/LINE_ALBUM_Day 3 川越老街_250604_9.jpg",
-    "content/posts/日本照片3/LINE_ALBUM_Day 3 川越老街_250604_8.jpg",
-    "content/posts/日本照片3/LINE_ALBUM_Day 3 川越老街_250604_7.jpg",
-    "content/posts/日本照片3/LINE_ALBUM_Day 3 川越老街_250604_6.jpg",
-    "content/posts/日本照片3/LINE_ALBUM_Day 3 川越老街_250604_5.jpg",
-    "content/posts/日本照片3/LINE_ALBUM_Day 3 川越老街_250604_4.jpg",
-    "content/posts/日本照片3/LINE_ALBUM_Day 3 川越老街_250604_3.jpg",
-    "content/posts/日本照片3/LINE_ALBUM_Day 3 川越老街_250604_2.jpg",
-    "content/posts/日本照片3/LINE_ALBUM_Day 3 川越老街_250604_1.jpg",
     "content/posts/日本照片2/index.md",
     "content/posts/日本照片3",
     "content/posts/日本照片1/index.md",
@@ -181,10 +194,6 @@
     "content/posts/日本照片1",
     "content/posts/7年級校慶照片/461552015_8424699724304598_919606140255102871_n.mp4",
     "content/posts/7年級校慶照片/461541892_8570216056357863_6638790771011535822_n.mp4",
-    "content/posts/7年級校慶照片/461104333_8204251049672985_4643321172015602544_n.mp4",
-    "content/posts/7年級校慶照片/461050573_8326095974178148_751913191969783082_n.mp4",
-    "content/posts/7年級校慶照片/461033901_26991357017176242_7446648970534325916_n.mp4",
-    "content/posts/7年級校慶照片/461015729_7456191111149960_6770289028214679131_n.mp4",
     "content/posts/國中畢旅照片2 - 複製/index.md",
     "content/posts/國中畢旅照片2/index.md",
     "content/posts/_index.md",
