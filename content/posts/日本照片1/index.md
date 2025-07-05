@@ -1,5 +1,5 @@
 ---
-title: 日本照片
+title: 日本照片1
 date: 2025-05-21T23:54:31+08:00
 author: nelson
 avatar: /me/yy.jpg
@@ -10,7 +10,7 @@ tags:
   - 交流
 ---
 
-南京照片
+日本照片1
 
 <!--more-->
 
