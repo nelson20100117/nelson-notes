@@ -6,6 +6,7 @@ avatar: /me/yy.jpg
 cover: 498154012_24464937979760658_1537637882609330346_n.jpg
 categories:
   - 國中
+  - 數資班
 tags:
   - 畢業
 ---

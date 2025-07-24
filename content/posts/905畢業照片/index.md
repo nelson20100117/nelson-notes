@@ -5,7 +5,7 @@ author: nelson
 avatar: /me/yy.jpg
 cover: MAX_5375.jpg
 categories:
-  - 國小
+  - 國中
 tags:
   - 畢業
 ---
