@@ -5,7 +5,7 @@ author: nelson
 avatar: /me/yy.jpg
 cover: MEITU_20250611_122741604 (1).jpg
 categories:
-  - 國小
+  - 國中
 tags:
   - 畢業
 ---
