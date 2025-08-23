@@ -1,6 +1,6 @@
 ---
 title: 福營數資班新生訓練幫忙
-date: 2025-8-20T23:58:31+08:00
+date: 2025-08-20T23:58:31+08:00
 author: nelson
 avatar: /me/yy.jpg
 cover: 105675.jpg

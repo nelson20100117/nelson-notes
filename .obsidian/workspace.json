@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/福營數資班新生訓練幫忙/index.md",
+                "file": "content/posts/高中新生訓練/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:建立新的 base": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -165,8 +166,9 @@
   },
   "active": "9b2832ad9a0995ba",
   "lastOpenFiles": [
-    "content/posts/高中新生訓練/index.md",
     "content/posts/高中新生訓練/1738.jpg",
+    "content/posts/福營數資班新生訓練幫忙/index.md",
+    "content/posts/高中新生訓練/index.md",
     "content/posts/高中新生訓練/IMG_6656.heic",
     "content/posts/高中新生訓練/IMG_6655.heic",
     "content/posts/高中新生訓練/IMG_6654.heic",
@@ -177,7 +179,6 @@
     "content/posts/高中新生訓練/IMG_6612.heic",
     "content/posts/高中新生訓練/IMG_6611.heic",
     "content/posts/高中新生訓練/IMG_6610.heic",
-    "content/posts/福營數資班新生訓練幫忙/index.md",
     "content/posts/高中新生訓練/105677.jpg",
     "content/posts/高中新生訓練/105676.jpg",
     "content/posts/高中新生訓練/105675.jpg",
