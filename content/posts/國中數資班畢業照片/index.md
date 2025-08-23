@@ -1,5 +1,5 @@
 ---
-title: 國中畢業照片
+title: 國中數資班畢業照片
 date: 2025-06-06T23:54:31+08:00
 author: nelson
 avatar: /me/yy.jpg
