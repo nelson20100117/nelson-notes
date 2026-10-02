@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ebd4b0c8be1af8",
+        "id": "d45823eb749c5c46",
         "type": "tabs",
         "children": [
           {
-            "id": "061559ab0eb0d1ae",
+            "id": "6542a1ed81309c8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/高一家政課/index.md",
+                "file": "content/posts/動物園/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -164,31 +166,32 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "061559ab0eb0d1ae",
+  "active": "6542a1ed81309c8c",
   "lastOpenFiles": [
-    "content/posts/高一家政課/20260311_092835.jpg",
-    "content/posts/高一家政課/20260311_092844.jpg",
-    "content/posts/高一家政課/20260311_094032.jpg",
-    "content/posts/高一家政課/20260311_094124.jpg",
-    "content/posts/高一家政課/20260408_092748.jpg",
-    "content/posts/高一家政課/20260408_100816.jpg",
-    "content/posts/高一家政課/20260603_081155.jpg",
-    "content/posts/高一家政課/20260603_083442.jpg",
-    "content/posts/高一家政課/20260603_090230.jpg",
-    "content/posts/高一家政課/20260603_090239.jpg",
-    "content/posts/高一家政課/20260603_090243.jpg",
-    "content/posts/UCS 22 & 23/index.md",
+    "content/posts/動物園/1775314759654.jpg",
+    "content/posts/動物園/1775314764737.jpg",
+    "content/posts/動物園/1775314767334.jpg",
+    "content/posts/動物園/1775314768313.jpg",
+    "content/posts/動物園/1775314771164.jpg",
+    "content/posts/動物園/1775314788948.jpg",
+    "content/posts/動物園/1775314793563.jpg",
+    "content/posts/動物園/1775314794182.jpg",
+    "content/posts/動物園/1775314797012.jpg",
+    "content/posts/動物園/1775314797856.jpg",
+    "content/posts/動物園/1775314798473.jpg",
+    "content/posts/動物園/IMG_6586.heic",
+    "content/posts/動物園/index.md",
+    "content/posts/動物園/IMG_6656.heic",
+    "content/posts/動物園/IMG_6655.heic",
+    "content/posts/動物園/IMG_6654.heic",
+    "content/posts/動物園/IMG_6653.heic",
+    "content/posts/動物園/IMG_6652.heic",
+    "content/posts/動物園/IMG_6614.heic",
+    "content/posts/動物園/IMG_6613.heic",
+    "content/posts/動物園/IMG_6612.heic",
+    "content/posts/動物園/IMG_6611.heic",
     "content/posts/高一家政課/index.md",
-    "content/posts/高一家政課/IMG_6656.heic",
-    "content/posts/高一家政課/IMG_6655.heic",
-    "content/posts/高一家政課/IMG_6653.heic",
-    "content/posts/高一家政課/IMG_6654.heic",
-    "content/posts/高一家政課/IMG_6613.heic",
-    "content/posts/高一家政課/IMG_6614.heic",
-    "content/posts/高一家政課/IMG_6612.heic",
-    "content/posts/高一家政課/IMG_6652.heic",
-    "content/posts/高一家政課/IMG_6610.heic",
-    "content/posts/高一家政課/IMG_6611.heic",
+    "content/posts/UCS 22 & 23/index.md",
     "content/posts/_index.md",
     "content/posts/高一回顧/index.md",
     "content/posts/寒假聚會/index.md",
@@ -210,7 +213,6 @@
     "content/posts/日本照片5/index.md",
     "content/posts/日本照片6/index.md",
     "content/posts/日本照片7/index.md",
-    "content/posts/弦樂團畢業音樂會/index.md",
-    "content/posts/南京照片/index.md"
+    "content/posts/弦樂團畢業音樂會/index.md"
   ]
 }
